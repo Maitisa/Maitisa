@@ -103,5 +103,18 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
+<br>
 
+## 🧑‍🚀 WHAT I'M WORKING ON
+
+- Working as an **AI & ML Developer**, applying machine learning and data-driven solutions to real-world problems  
+- Acting as a **System & Business Analyst**, improving processes, requirements, and system efficiency  
+- Exploring **Data & Cybersecurity insights** to build secure and reliable digital systems  
+- Developing modern web applications as a **Front-End Developer** using React.js, Next.js, TypeScript, Tailwind CSS, and Node.js  
+- Strengthening backend and database skills using **SQL for data management and analysis**  
+- Designing and building scalable, responsive, and user-focused digital interfaces  
+- Continuously learning and applying **AI, software engineering, and system design principles**  
+
+<br>
