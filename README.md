@@ -118,3 +118,20 @@
 - Continuously learning and applying **AI, software engineering, and system design principles**  
 
 <br>
+
+---
+
+
+<br>
+
+## 🌱 I'M CURRENTLY LEARNING
+
+- Advanced **AI & Machine Learning engineering**, focusing on real-world, production-level applications  
+- **Data systems and cybersecurity fundamentals**, improving secure and reliable system design  
+- **System & Business Analysis techniques** to better understand and optimize software requirements  
+- Modern **Front-End Development** using React.js, Next.js, TypeScript, Tailwind CSS, and Node.js  
+- Strengthening **SQL and database design** for efficient data management and analytics  
+- Exploring **Web3 and Blockchain development**, including Ethereum smart contracts and decentralized systems  
+- Building better **UI/UX-focused interfaces** with scalable design systems and user-centered thinking  
+
+<br>
