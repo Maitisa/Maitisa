@@ -135,3 +135,23 @@
 - Building better **UI/UX-focused interfaces** with scalable design systems and user-centered thinking  
 
 <br>
+
+---
+
+
+<br>
+
+## 🤖 INTERESTED IN
+
+- **AI & Machine Learning systems**, and how they solve real-world problems in modern software products  
+- **Data-driven development and cybersecurity concepts** for building secure and intelligent systems  
+- **System & Business Analysis**, focusing on improving software requirements and decision-making processes  
+- Modern **Front-End Engineering**, building scalable applications using React.js, Next.js, TypeScript, Tailwind CSS, and Node.js  
+- Working with **SQL and data systems** for structured data management and analysis  
+- Exploring **Web3, Ethereum, and decentralized application development**  
+- Designing and building **user-focused digital experiences** through clean, functional, and responsive interfaces  
+- Connecting **data, AI, and software engineering** to create intelligent and efficient systems  
+
+<br>
+
+
