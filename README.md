@@ -168,5 +168,21 @@
 
 <br>
 
+---
+
+<br>
+
+## ⚡ FUN FACTS
+
+- Passionate about AI, cybersecurity, and building smart systems 🤖  
+- I enjoy solving real-world problems with code 💡  
+- I love spending time in nature 🌿🌞  
+
+<br>
+
+
+
+
+
 
 
