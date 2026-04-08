@@ -154,4 +154,19 @@
 
 <br>
 
+---
+
+<br>
+
+## 📫 HOW TO REACH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thato-m-088b14374/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitisathato21@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27683332412)
+
+<br>
+
+
 
