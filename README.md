@@ -180,8 +180,11 @@
 
 <br>
 
+---
 
-
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A0522D&background=FFFFFF&width=1000&lines=Let%27s+collaborate+on+Data%2C+AI+%26+ML+Engineering%2C+Cybersecurity%2C+and+Front-End+%26+Web3" style="display:block; margin-left:auto; margin-right:0;" />
+</div>
 
 
 
